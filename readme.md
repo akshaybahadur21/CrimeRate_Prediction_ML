@@ -23,4 +23,3 @@ To run the code, type `python Crimerate_Prediction.py`
 ```
 python Crimerate_Prediction.py
 ```
-```
