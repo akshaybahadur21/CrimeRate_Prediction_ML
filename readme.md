@@ -17,8 +17,6 @@ For more information, [see](https://machinelearningmastery.com/make-predictions-
 
 <img src="https://github.com/akshaybahadur21/CrimeRate_Prediction_ML/blob/master/crime.png">
 
-`` 
-
 ### Execution
 To run the code, type `python Crimerate_Prediction.py`
 
