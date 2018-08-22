@@ -17,7 +17,7 @@ Time series analysis comprises methods for analyzing time series data in order t
 
 For more information, [see](https://machinelearningmastery.com/make-predictions-time-series-forecasting-python/)
 
-<img src="https://github.com/akshaybahadur21/CrimeRate_Prediction_ML/blob/master/crime_ml.png">
+<img src="https://github.com/akshaybahadur21/CrimeRate_Prediction_ML/blob/master/crime_ml.PNG">
 
 ### Execution
 To run the code, type `python Crimerate_Prediction.py`
